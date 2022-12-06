@@ -1,0 +1,92 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+h2 {
+  padding-top: 0.5em;
+}
+
+button:hover {
+  background-color: #107c10;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+table {
+  border-collapse: inherit;
+}
+
+.container {
+  margin-top: 5em;
+  width: 50%;
+}
+
+.badge {
+  margin: 0.5em;
+}
+
+.btn {
+  background-color: #4cbb17;
+  margin-bottom: 1em;
+}
+
+.table {
+  max-width: 50%;
+}
+
+#timer {
+  margin-right: 1em;
+  font-size: 2em;
+  background-color: #4cbb17;
+}
+
+#hiscore {
+  margin-left: 2em;
+  margin-top: 1em;
+}
+
+#start-div {
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+}
+
+#questions-div {
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+}
+
+#results-div {
+  justify-content: center;
+}
+
+#game-over-form {
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+#hiscore-div {
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    width: 100%;
+  }
+}
