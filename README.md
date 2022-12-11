@@ -84,6 +84,6 @@ This Challenge is graded based on the following criteria:
 
 Submitting the following for review:
 
-* The URL of the deployed application: https://sperked.github.io/Coding_Quiz
+* The URL of the deployed application: https://sperked.github.io/Coding-Quiz
 
-* The URL of the GitHub repository, with a unique name and a README that describes the project: https://github.com/Sperked/Coding_Quiz
+* The URL of the GitHub repository, with a unique name and a README that describes the project: https://github.com/Sperked/Coding-Quiz
